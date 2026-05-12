@@ -524,3 +524,9 @@
   year: 2026
   type: article
   summary: A survey of how every major LLM provider (OpenAI, Google, Anthropic, Mistral, xAI, DeepSeek), the Model Context Protocol, and the AI products built on top of them have all converged on JSON Schema as the contract language for structured outputs, tool calls, and agent interoperability
+
+- title: "Every G7 government already runs on JSON Schema"
+  url: https://www.sourcemeta.com/blog/g7-runs-on-json-schema/
+  year: 2026
+  type: article
+  summary: A review of how every G7 government (United States, United Kingdom, France, Germany, Italy, Japan, and Canada), along with nine out of ten of the OECD's top digital governments, relies on JSON Schema for its digital public infrastructure
